@@ -30,11 +30,14 @@
       </ul>
     </section>
 
-    <section class="download">
-      <h2>📱 تحميل التطبيق</h2>
-      <p>يمكنك تحميل تطبيق الجمعية مباشرة على هاتفك الأندرويد:</p>
-      <a class="btn" href="downloads/app.apk" download>⬇️ تحميل التطبيق (APK)</a>
-    </section>
+ <section class="download">
+  <h2>📱 تحميل التطبيق</h2>
+  <p>يمكنك تحميل تطبيق الجمعية مباشرة على هاتفك الأندرويد:</p>
+  <a class="btn" href="https://drive.google.com/uc?export=download&id=FILE_ID" target="_blank">
+    ⬇️ تحميل التطبيق (APK)
+  </a>
+</section>
+
   </main>
 
   <footer>
@@ -42,3 +45,4 @@
   </footer>
 </body>
 </html>
+
